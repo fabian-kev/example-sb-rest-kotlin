@@ -1,4 +1,4 @@
-# REST API example using Springboot Kotlin
+# REST API example using Springboot - Kotlin
 
 Contents
 
