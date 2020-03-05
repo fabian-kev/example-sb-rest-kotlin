@@ -2,10 +2,14 @@
 
 Contents
 
-1. Kotlin DSL
-2. Clean Architecture
-3. Student CRUD
-4. Kotlin Language
+DSL
+1. Kotlin
+
+Language used
+1. Kotlin
+
+Architecture
+1. Clean Architecture
 
 Dependencies
 1. Springboot web starter
